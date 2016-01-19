@@ -1,0 +1,10 @@
+{
+  "service": "service1",
+  "version": "v1",
+  "instances": [
+    {
+      "location": "https://192.168.99.100:3000",
+      "capacity": "infinity"
+    }
+  ]
+}
