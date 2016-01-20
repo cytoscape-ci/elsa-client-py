@@ -38,5 +38,5 @@ setup(
         ],
         test_suite='tests',
         packages=find_packages(),
-        include_package_data=True,
+        include_package_data=True
 )
